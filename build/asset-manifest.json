@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1d599c30.css",
+    "main.js": "/static/js/main.320dc112.js",
+    "static/media/mee.svg": "/static/media/mee.a99121273b2f3492633381817a62910d.svg",
+    "static/media/space-rourism.png": "/static/media/space-rourism.20fcbdbd330eb6360bea.png",
+    "static/media/pray-times.png": "/static/media/pray-times.19ffa630aaecc3519d9b.png",
+    "static/media/qrcode.png": "/static/media/qrcode.ec3a6ccdc9d0215448c0.png",
+    "static/media/landing-page.png": "/static/media/landing-page.6934b9114801378d6b55.png",
+    "static/media/sunshine_adobe_express.svg": "/static/media/sunshine_adobe_express.9b9ad0b8b3ebea29629d7752c320053f.svg",
+    "static/media/TodApp_adobe_express (1).svg": "/static/media/TodApp_adobe_express (1).f7688eefe52e8c1b44b98b2c764df114.svg",
+    "static/media/url-shorting_adobe_express.svg": "/static/media/url-shorting_adobe_express.6bba85f43737397bbe5b533bdccca481.svg",
+    "static/media/rest-api_adobe_express.svg": "/static/media/rest-api_adobe_express.1e88835f275bd1d5117f763357ef8397.svg",
+    "static/media/dashboard.png": "/static/media/dashboard.e743214d55803f3c5d05.png",
+    "static/media/quizApp_adobe_express.svg": "/static/media/quizApp_adobe_express.0ca84f5ab471595a4f9657802f274ab1.svg",
+    "static/media/translator_adobe_express.svg": "/static/media/translator_adobe_express.e9ee22c01ebe504f490fcc9b1edf8548.svg",
+    "index.html": "/index.html",
+    "main.1d599c30.css.map": "/static/css/main.1d599c30.css.map",
+    "main.320dc112.js.map": "/static/js/main.320dc112.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d599c30.css",
+    "static/js/main.320dc112.js"
+  ]
+}
